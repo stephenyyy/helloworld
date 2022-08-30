@@ -2,8 +2,11 @@
 hello coding world
 
 # test git
+<<<<<<< HEAD
 change by world-user
 world log 2
 world log 3
-world log 4
 
+=======
+hello log 1
+>>>>>>> 6aab9ec044f6638c602b575a0be250379697278d
